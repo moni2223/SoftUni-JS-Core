@@ -1,1 +1,1 @@
-# SoftUni-JavaScript-Full-
+# SoftUni-JSCore
